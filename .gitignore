@@ -1,0 +1,7 @@
+
+*.json
+*.vsidx
+.vs/SCAU_OJ/v17/.wsuo
+*.db
+*.ipch
+*.sqlite
