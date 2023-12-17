@@ -1,7 +1,7 @@
 
 *.json
 *.vsidx
-.vs/SCAU_OJ/v17/.wsuo
+.vs/SCAU_OJ/
 *.db
 *.ipch
 *.sqlite
